@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xavierfuchs06 (he/him she/her)
 - 👀 I’m interested in computer science and food
 - 🌱 I’m currently learning basic coding and GitHub
-- 📫 How to reach me: telegram@xavierfuchs06 discord@Xavier Fuchs (he/she)#7845
+- 📫 How to reach me: telegram@xavierfuchs06 ;  x.fuchs@icloud.com
 
 .. yes this is the template shut up
 
